@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Vazirmatn-Medium';
+  src: url(./Vazirmatn-Medium.eot);
+  src: url(./Vazirmatn-Medium.eot?#iefix) format('embedded-opentype'),
+       url(./Vazirmatn-Medium.svg#Vazirmatn-Medium) format('svg'),
+       url(./Vazirmatn-Medium.woff2) format('woff2');
+}
